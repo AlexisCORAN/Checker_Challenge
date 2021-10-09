@@ -2,7 +2,7 @@
 
 This project is about a Discord bot in Python. \
 This project works with your token-api provided by holberton and  \
-you can ask questions about your profile or about the projects. \
+you can ask questions about your profile or about the projects.
 
 
 Uses the discord.py library and installs with the following command: \
