@@ -3,20 +3,23 @@
 This project is about a Discord bot in Python. \
 This project works with your token-api provided by holberton and  \
 you can ask questions about your profile or about the projects. \
+
+
 Uses the discord.py library and installs with the following command: \
 ``
 pip3 install discord.py
-`` <br> \
+`` \
+
 To start the bot is used \
 ``
 $start
 `` \
-<br>
+
 To stop the bot is used \
 ``
 $stop
 `` \
-<br>
+
 The commands available by this bot are the following:
 - `$profile` : This command returns information about your profile.
 - `$foto` : This command returns the photo of your profile.
