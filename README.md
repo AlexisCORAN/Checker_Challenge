@@ -8,17 +8,17 @@ you can ask questions about your profile or about the projects. \
 Uses the discord.py library and installs with the following command: \
 ``
 pip3 install discord.py
-`` \
+``
 
-To start the bot is used \
+To start the bot is used
 ``
 $start
-`` \
+`` 
 
-To stop the bot is used \
+To stop the bot is used
 ``
 $stop
-`` \
+`` 
 
 The commands available by this bot are the following:
 - `$profile` : This command returns information about your profile.
