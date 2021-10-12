@@ -12,10 +12,6 @@ async def on_ready():
     print('Bot loaded as {0.user}'.format(bot))
 
 
-#@bot.Cog.listener()
-#async def on_command_error(self, ctx, error):
-#    if hasattr(ctx.command, 'on_error'):
-#        return
 @commands.Cog.listener()
 async def on_command_error(self, ctx: commands.Context, error: commands.CommandError):
     """A global error handler cog."""
